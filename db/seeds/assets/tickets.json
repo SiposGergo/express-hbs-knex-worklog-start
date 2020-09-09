@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Fix bug on login page",
+    "description": "Translations does not load on our login page.",
+    "estimation": 360000
+  },
+  {
+    "name": "Develop cool new feature",
+    "description": "Very cool new feature ... according to the client :)",
+    "estimation": 36000000
+  }
+]
